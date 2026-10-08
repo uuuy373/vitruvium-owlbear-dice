@@ -1,0 +1,17 @@
+{
+  "name": "Кости Витрувия",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Физические 3D-кубики и проверки по правилам игровой системы «Витрувий».",
+  "author": "Meow",
+  "homepage_url": "https://vitruvium.ru/rules",
+  "icon": "/vitruvium-owlbear-dice/icon.svg",
+  "background_url": "/vitruvium-owlbear-dice/background.html",
+  "action": {
+    "title": "Кости Витрувия",
+    "icon": "/vitruvium-owlbear-dice/icon.svg",
+    "popover": "/vitruvium-owlbear-dice/",
+    "width": 620,
+    "height": 720
+  }
+}
