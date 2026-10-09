@@ -1,0 +1,17 @@
+{
+  "name": "ДАЙСЫ Витрувия",
+  "version": "3.0.0",
+  "manifest_version": 1,
+  "description": "Общие физические 3D-броски дайсов для игровой системы «Витрувий».",
+  "author": "Meow",
+  "homepage_url": "https://vitruvium.ru/rules",
+  "icon": "/vitruvium-owlbear-dice/icon-v3.svg",
+  "background_url": "/vitruvium-owlbear-dice/background.html",
+  "action": {
+    "title": "ДАЙСЫ Витрувия",
+    "icon": "/vitruvium-owlbear-dice/icon-v3.svg",
+    "popover": "/vitruvium-owlbear-dice/",
+    "width": 360,
+    "height": 640
+  }
+}
