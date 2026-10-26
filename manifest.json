@@ -1,14 +1,14 @@
 {
-  "name": "ДАЙСЫ Витрувия",
-  "version": "4.0.1",
+  "name": "VITRYVIY",
+  "version": "5.0.0",
   "manifest_version": 1,
-  "description": "Общие физические 3D-броски дайсов для игровой системы «Витрувий».",
+  "description": "Единая система Vitryviy: физические 3D-дайсы, история бросков и постоянные интерактивные анкеты персонажей.",
   "author": "Meow",
   "homepage_url": "https://vitruvium.ru/rules",
   "icon": "/vitruvium-owlbear-dice/icon-v3.svg",
   "background_url": "/vitruvium-owlbear-dice/background.html",
   "action": {
-    "title": "ДАЙСЫ Витрувия",
+    "title": "VITRYVIY · Дайсы",
     "icon": "/vitruvium-owlbear-dice/icon-v3.svg",
     "popover": "/vitruvium-owlbear-dice/",
     "width": 360,
